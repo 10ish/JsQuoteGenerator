@@ -1,3 +1,3 @@
 # JsQuoteGenerator
 
-Deployment: 
+Deployment: https://10ish.github.io/JsQuoteGenerator/
